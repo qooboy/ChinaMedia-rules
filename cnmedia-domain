@@ -15,6 +15,20 @@ www.xiaomi.cn
 www.mi.com/service
 
 #酷狗
-*.kugou.com
+kugou.com
+www.kugou.com
+mobilecdn.kugou.com
+songsearch.kugou.com
+trackercdn.kugou.com
+api.kugou.com
+downmobile.kugou.com
+mobilelog.kugou.com
+downloadcdn.kugou.com
+m.kugou.com
+songstream.kugou.com
+client.kugou.com
+upgrade.kugou.com
+rcv.kugou.com
+open.kugou.com
 
 #优酷
